@@ -1,4 +1,6 @@
-# Quy ước viết CSS của cá nhân mình
+# Quy ước viết CSS của mình
+
+## Nguyên tắc chung
 
 > Luôn format code bằng prettier
 
