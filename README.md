@@ -67,10 +67,10 @@ function ListingCard() {
 12. Không dùng thẻ HTML trong selector
 
 ```css
-// NOT prefer
+/* NOT prefer */
 div.o-modal {}
 
-// prefer
+/* prefer */
 .o-modal {}
 ```
 
@@ -78,12 +78,12 @@ div.o-modal {}
 14. Không dùng cách viết tắt nếu không cần thiết (trừ trường hợp có chủ đích rõ ràng)
 
 ```css
-// NOT prefer
+/* NOT prefer */
 .css {
     background: #fff;
 }
 
-// Prefer
+/* Prefer */
 .css {
     background-color: #fff;
 }
